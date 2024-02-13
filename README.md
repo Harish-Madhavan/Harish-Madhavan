@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Harish-Madhavan
+- 👀 I’m interested in becoming more proficient in coding 
+- 🌱 I’m currently learning Python and C
